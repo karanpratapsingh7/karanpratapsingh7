@@ -18,7 +18,7 @@
 **Frontend:** React, HTML, CSS, Tailwind  
 **Backend:** Node.js, Express  
 **Database:** MongoDB, SQL  
-
+**Machine Learning & NLP:** ML Fundamentals, Natural Language Processing (NLP), Neural Networks(ANN, CNN, RNN, LSTM), LLM Concepts
 ---
 
 ### 🚀 Currently Working On
@@ -30,7 +30,6 @@
 ### 📌 Featured Projects
 - Task Management App (MERN)
 - Resume Screening App(ML,NLP)
-- JavaScript Practice
 
 ---
 
