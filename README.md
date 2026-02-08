@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="1536" height="1024" alt="ChatGPT Image Feb 9, 2026, 02_59_08 AM" src="https://github.com/user-attachments/assets/543e4fff-bf46-4e21-999f-d6c4e393193f" /> 
+</p>
+
 ## Hey! 👋 I'm Karan Pratap Singh
 
 🎓 B.Tech IT Student    
