@@ -1,5 +1,7 @@
+
 <p align="center">
-  <img width="1536" height="1024" alt="ChatGPT Image Feb 9, 2026, 02_59_08 AM" src="https://github.com/user-attachments/assets/543e4fff-bf46-4e21-999f-d6c4e393193f" /> 
+  <img width="1536" height="1024" alt="ChatGPT Image Feb 9, 2026, 03_12_43 AM" src="https://github.com/user-attachments/assets/76a65b2d-1393-4522-afee-fb99af51a74a" />
+
 </p>
 
 ## Hey! 👋 I'm Karan Pratap Singh
