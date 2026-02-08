@@ -1,14 +1,14 @@
 ## Hey! 👋 I'm Karan Pratap Singh
 
-🎓 B.Tech IT Student    
-🤖 Machine Learning 
-💻 MERN Stack Developer
+🎓 B.Tech IT Student  
+💻 MERN Stack Developer  
+🤖 Machine Learning Engineer  
 
 ---
 
 ### 👨‍💻 About Me
 - Final year IT student
-- Interested in Full Stack & Machine Learning
+- Interested in MERN Stack & Machine Learning
 - Building real-world projects consistently
 
 ---
@@ -18,7 +18,8 @@
 **Frontend:** React, HTML, CSS, Tailwind  
 **Backend:** Node.js, Express  
 **Database:** MongoDB, SQL  
-**Machine Learning & NLP:** ML Fundamentals, Natural Language Processing (NLP), Neural Networks(ANN, CNN, RNN, LSTM), LLM Concepts
+**Machine Learning & NLP:** Machine Learning Fundamentals, NLP, Neural Networks(ANN, CNN, RNN, LSTM), LLM concepts
+
 ---
 
 ### 🚀 Currently Working On
@@ -29,7 +30,7 @@
 
 ### 📌 Featured Projects
 - Task Management App (MERN)
-- Resume Screening App(ML,NLP)
+- Resume Screening App (ML, NLP)
 
 ---
 
