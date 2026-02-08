@@ -1,8 +1,8 @@
 ## Hey! 👋 I'm Karan Pratap Singh
 
-🎓 B.Tech IT Student  
-💻 MERN Stack Developer  
-🤖 Machine Learning Enthusiast  
+🎓 B.Tech IT Student    
+🤖 Machine Learning 
+💻 MERN Stack Developer
 
 ---
 
