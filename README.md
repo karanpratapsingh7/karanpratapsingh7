@@ -1,16 +1,40 @@
-## Hi there 👋
+## Hey! 👋 I'm Karan Pratap Singh
 
-<!--
-**karanpratapsingh7/karanpratapsingh7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech IT Student  
+💻 MERN Stack Developer  
+🤖 Machine Learning Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+- Final year IT student
+- Interested in Full Stack & Machine Learning
+- Building real-world projects consistently
+
+---
+
+### 🛠 Tech Stack
+**Languages:** Java, JavaScript, Python  
+**Frontend:** React, HTML, CSS, Tailwind  
+**Backend:** Node.js, Express  
+**Database:** MongoDB, SQL  
+
+---
+
+### 🚀 Currently Working On
+- MERN Stack Projects
+- Machine Learning Projects
+
+---
+
+### 📌 Featured Projects
+- Task Management App (MERN)
+- Resume Screening App(ML,NLP)
+- JavaScript Practice
+
+---
+
+### 📫 Connect With Me
+- LinkedIn: (www.linkedin.com/in/karanpratap07)
+- GitHub: (karanpratapsingh7)
+
